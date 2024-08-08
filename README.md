@@ -29,6 +29,8 @@ https://github.com/user-attachments/assets/d9821494-402e-4308-96b2-6045d99ef25a
 
 ### All the code, resources, and components for this project are available. Check it out if you want to build your own or just see how it all came together!
 
+## Future plans? Making it look less like a "Frankenstein" and more like a sleek, futuristic vehicle! 😄
+
 ## **Components Used**
 To build BlueBotCar, I used the following components:
 
